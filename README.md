@@ -1,8 +1,6 @@
 # UiPath Web Scraper: Books Data
 
-This repository contains a simple UiPath automation designed to scrape book data, handle pagination, and export the results to a CSV file.
-
-## AIM
+### AIM
 
 The goal of this project is to:
 
@@ -12,7 +10,7 @@ The goal of this project is to:
 
 ---
 
-## PROCEDURE
+### PROCEDURE
 
 The workflow uses the following key steps:
 
@@ -22,7 +20,7 @@ The workflow uses the following key steps:
 
 ---
 
-## OUTPUT
+### OUTPUT
 
 The automation generates one output file:
 
@@ -30,6 +28,6 @@ The automation generates one output file:
 
 ---
 
-## RESULT
+### RESULT
 
 The automation successfully extracts all available book data from the multi-page website is completed successfully.
