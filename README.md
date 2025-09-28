@@ -23,6 +23,7 @@ The workflow uses the following key steps:
 ### OUTPUT
 
 The automation generates one output file:
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/e2bbaf91-acc5-4357-b20e-7d0e0e11cab6" />
 
 * **Attached File:** `ScrapedBooksData.csv`
 
